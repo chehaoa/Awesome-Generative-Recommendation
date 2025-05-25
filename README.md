@@ -17,6 +17,6 @@ We focus on papers related to:
 ---
 
 ## Research
-|    | **Title**                                                                                                         | PublishedAt | Paper                                                                                                  | Code                                                                    |
-|----|-------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| 1  | GenRec: Large Language Model  for Generative Recommendation                 | ECIR'24 | [arXiv](https://arxiv.org/abs/2304.03879)                                                              |               [Github](https://github.com/rutgerswiselab/GenRec)                                                          |
+|    | **Title**                                                               | PublishedAt | Paper                                           |  Code                                                  |
+|----|-------------------------------------------------------------------------|-------------|-------------------------------------------------|----------------------------------------------------------|
+| 1  | GenRec: Large Language Model  for Generative Recommendation             | ECIR'24 | [springer](https://link.springer.com/chapter/10.1007/978-3-031-56063-7_42)         |       [Github(https://github.com/rutgerswiselab/GenRec)  |
