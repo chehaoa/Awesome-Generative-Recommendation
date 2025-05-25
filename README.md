@@ -31,4 +31,4 @@ We focus on papers related to:
 |    | **Title**                                                               | PublishedAt | Paper                                           |  Code                                                  |
 |----|-------------------------------------------------------------------------|-------------|-------------------------------------------------|----------------------------------------------------------|
 | 1  | A Survey of Generative Search and Recommendation in the Era of Large Language Models   | arXiv'24 | [arxiv](https://arxiv.org/pdf/2404.16924)         |    |
-
+| 2  | A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)   | KDD'24 | [acm](https://dl.acm.org/doi/abs/10.1145/3637528.3671474)         |    |
