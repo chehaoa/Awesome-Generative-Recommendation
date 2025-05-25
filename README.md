@@ -1,6 +1,6 @@
-# 📚 Generative Recommendation Papers (2024–2025)
+# 📚 Generative Recommendation Papers
 
-This repository collects and organizes recent papers (2024–2025) on **Generative Recommender Systems**, especially those involving LLMs, diffusion models, prompt-based generation, and other generative techniques in recommendation.
+This repository collects and organizes recent papers on **Generative Recommender Systems**, especially those involving LLMs, diffusion models, prompt-based generation, and other generative techniques in recommendation.
 
 ---
 
