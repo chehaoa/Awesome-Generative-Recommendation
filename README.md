@@ -24,6 +24,8 @@ We focus on papers related to:
 | 3  | Multi-Behavior Generative Recommendation            | CIKM'24 | [acm](https://dl.acm.org/doi/abs/10.1145/3627673.3679730)         |       [Github](https://github.com/anananan116/MBGen)  |
 | 4  | MMGRec: Multimodal Generative Recommendation with Transformer Model            | arXiv'24 | [arxiv](https://arxiv.org/pdf/2404.16555)         |        |
 | 5  | Learnable Item Tokenization for Generative Recommendation            | CIKM'24 | [acm](https://dl.acm.org/doi/abs/10.1145/3627673.3679569?casa_token=Up2RPu6nS9wAAAAA:4Cs4xsZFbkOgKflct07iMwLsZMJ1TYSqdxWIFfFRSw9dw4py3Bq-GAkPe-Ij51m7hGTy1XXsjT3ilA)         |    [Github](https://github.com/HonghuiBao2000/LETTER)    |
+| 6  | Recommender Systems with Generative Retrieval  | NeurIPS'23 | [pdf](https://proceedings.neurips.cc/paper_files/paper/2023/file/20dcab0f14046a5c6b02b61da9f13229-Paper-Conference.pdf)  |  [Github](https://github.com/EdoardoBotta/RQ-VAE-Recommender)     |
+
 
 
 
